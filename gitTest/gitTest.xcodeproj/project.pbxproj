@@ -15,7 +15,6 @@
 		048CE72C1BAB9CC600EDA491 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048CE72B1BAB9CC600EDA491 /* Images.xcassets */; };
 		048CE72F1BAB9CC600EDA491 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 048CE72D1BAB9CC600EDA491 /* LaunchScreen.xib */; };
 		048CE73B1BAB9CC600EDA491 /* gitTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CE73A1BAB9CC600EDA491 /* gitTestTests.m */; };
-		048CE7461BABA0E400EDA491 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CE7451BABA0E400EDA491 /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,8 +42,6 @@
 		048CE7341BAB9CC600EDA491 /* gitTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		048CE7391BAB9CC600EDA491 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		048CE73A1BAB9CC600EDA491 /* gitTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitTestTests.m; sourceTree = "<group>"; };
-		048CE7441BABA0E400EDA491 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
-		048CE7451BABA0E400EDA491 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,8 +92,6 @@
 				048CE72D1BAB9CC600EDA491 /* LaunchScreen.xib */,
 				048CE7221BAB9CC600EDA491 /* gitTest.xcdatamodeld */,
 				048CE71B1BAB9CC600EDA491 /* Supporting Files */,
-				048CE7441BABA0E400EDA491 /* Person.h */,
-				048CE7451BABA0E400EDA491 /* Person.m */,
 			);
 			path = gitTest;
 			sourceTree = "<group>";
@@ -229,7 +224,6 @@
 			files = (
 				048CE7241BAB9CC600EDA491 /* gitTest.xcdatamodeld in Sources */,
 				048CE7211BAB9CC600EDA491 /* AppDelegate.m in Sources */,
-				048CE7461BABA0E400EDA491 /* Person.m in Sources */,
 				048CE7271BAB9CC600EDA491 /* ViewController.m in Sources */,
 				048CE71E1BAB9CC600EDA491 /* main.m in Sources */,
 			);
